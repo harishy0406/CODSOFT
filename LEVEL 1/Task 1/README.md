@@ -1,7 +1,6 @@
 # Football Landing Page 🌐⚽
 
 ## Overview 📝
-
 Welcome to the Football Landing Page project! This landing page provides comprehensive information about football, featuring menu navigation and a contact form. It's designed to showcase football-related content in a structured and user-friendly manner.
 
 ## Technologies Used 🛠️
@@ -40,6 +39,9 @@ Welcome to the Football Landing Page project! This landing page provides compreh
     - Use the contact form to send inquiries or feedback.
 
 ## Snapshots 📸
+
+### Working
+![image](https://github.com/harishy0406/CODSOFT/blob/main/LEVEL%201/Task%201/Working.gif)
 
 ### Home
 ![image](https://github.com/harishy0406/CODSOFT/assets/142865295/fb30bd84-822f-4585-96d9-b44d426238ee)
