@@ -3,6 +3,11 @@ Welcome to the CODSOFT repository! This repo contains the projects I completed d
 
 ## Level 1️⃣
 
-### 1. Landing Page 🌐
-- A modern and responsive landing page designed to capture user attention and provide essential information about a product or service.
+### 1. Landing Page 🌐⚽
+- Football Landing Page project🌐⚽! This landing page provides comprehensive information about football, featuring menu navigation and a contact form. It's designed to showcase football-related content in a structured and user-friendly manner.📫
 - **Technologies used:** HTML, CSS
+
+  ![image](https://github.com/harishy0406/CODSOFT/blob/main/Task1.gif)
+  
+
+
