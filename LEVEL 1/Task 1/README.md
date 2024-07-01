@@ -41,7 +41,7 @@ Welcome to the Football Landing Page project! This landing page provides compreh
 
 ## Snapshots 📸
 
-# Home
+### Home
 ![image](https://github.com/harishy0406/CODSOFT/assets/142865295/fb30bd84-822f-4585-96d9-b44d426238ee)
 
 
