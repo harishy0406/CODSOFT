@@ -15,3 +15,9 @@ Welcome to the CODSOFT repository! This repo contains the projects I completed d
 - **Technologies used:** HTML, CSS, Javascript
 
   ![image](https://github.com/harishy0406/CODSOFT/blob/main/Task2.gif)
+
+### 3. Calculator  ➗💻
+- A sleek and functional calculator built using HTML, CSS, and JavaScript. Perform basic arithmetic operations with ease and style! 🧮✨
+- **Technologies used:** HTML, CSS, Javascript
+
+  ![image](https://github.com/harishy0406/CODSOFT/blob/main/Task3.gif)
