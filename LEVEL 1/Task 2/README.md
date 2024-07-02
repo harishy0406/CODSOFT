@@ -29,6 +29,10 @@
 ## Snapshots 📸
 Here are some snapshots of the project:
 
+Working :
+
+![image](https://github.com/harishy0406/CODSOFT/blob/main/LEVEL%201/Task%202/working.gif)
+
 Home Page:
 
 ![image](https://github.com/harishy0406/CODSOFT/assets/142865295/c4fb2b7b-69cc-4e65-8b07-2ca88ca3f7b5)
