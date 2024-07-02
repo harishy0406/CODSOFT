@@ -1,0 +1,111 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: 0;
+    transition: all 0.5s ease;
+}
+
+body {
+    font-family: sans-serif;
+    overflow: hidden;
+}
+
+p {
+    color: rgb(5, 5, 5);
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+body {
+    background: url('Background_img_Home.jpg');
+    background-size: cover;
+  }
+
+.container {
+    height: 90vh;
+    width: 100vw;
+    display: grid;
+    place-items: center;
+}
+
+.calculator {
+    position: relative;
+    height: auto;
+    width: auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 30px #8a817c;
+    background-color: #071115; 
+}
+
+.display-screen {
+    margin-bottom: 20px;
+}
+
+#display {
+    margin: 0 10px;
+    height: 150px;
+    width: auto;
+    max-width: 270px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    font-size: 30px;
+    color: #f8fafd; 
+}
+
+button {
+    height: 60px;
+    width: 60px;
+    border: 0;
+    border-radius: 30px;
+    margin: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: all 200ms ease;
+}
+
+button:hover {
+    transform: scale(1.1);
+}
+
+button#equal {
+    height: 130px;
+}
+
+.calculator button#clear {
+    background-color: #ff8000;
+    color: #000000;
+}
+
+.calculator button.btn-number {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.calculator button.btn-operator {
+    background-color: #00D1D1;
+    color: #000000;
+}
+
+.calculator button.btn-equal {
+    background-color: #00ff22;
+    color: #000000;
+}
+
+footer{
+    padding: 15px 23px;
+    color: #fff;
+    text-align: center;
+}
+footer span a{
+    color: #00D1D1;
+    text-decoration: none;
+}
+footer span a:hover{
+    text-decoration: underline;
+}
