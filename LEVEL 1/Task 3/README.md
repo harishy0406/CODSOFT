@@ -29,6 +29,13 @@ Simply open the `index.html` file in your preferred web browser and start perfor
 
 ## Snapshots 📸
 
+### Working:
+
+![image](https://github.com/harishy0406/CODSOFT/blob/main/LEVEL%201/Task%203/working.gif)
+
+
+### User Interface
+
 ![image](https://github.com/harishy0406/CODSOFT/assets/142865295/eb64b46a-d4ca-4988-af5a-02123c2a820c)
 
 
