@@ -30,6 +30,10 @@ Simply open the `index.html` file in your preferred web browser to view the trib
 
 ## Snapshots 📸
 
+### Working:
+
+![image](https://github.com/harishy0406/CODSOFT/blob/main/LEVEL%202/Task%201/Working.gif)
+
 ### Home: 
 
 ![image](https://github.com/harishy0406/CODSOFT/assets/142865295/bc249d19-488d-4dd7-af80-88e538d82999)
