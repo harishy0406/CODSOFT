@@ -30,14 +30,24 @@ Simply open the `index.html` file in your preferred web browser to view the trib
 
 ## Snapshots 📸
 
+### Home: 
+
+![image](https://github.com/harishy0406/CODSOFT/assets/142865295/bc249d19-488d-4dd7-af80-88e538d82999)
+
+### Biography:
+
+![image](https://github.com/harishy0406/CODSOFT/assets/142865295/337a84ae-b77c-49a8-ac50-c938db56bd03)
 
 
-## Contributing 🤝
-Feel free to submit issues or pull requests if you have suggestions for improvements or have found bugs. Contributions are welcome!
+### Carrer Highlights:
 
-## License 📄
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+![image](https://github.com/harishy0406/CODSOFT/assets/142865295/c35e0f36-7633-4530-a22a-16c374248863)
 
----
+
+### Gallery:
+
+![image](https://github.com/harishy0406/CODSOFT/assets/142865295/6c917a0f-69e7-4461-aa2a-e4ab0292c31c)
+
+
 
 Thank you for checking out the **Tribute to Diego Maradona** project! 🎉 Feel free to reach out if you have any questions or feedback. 📫
