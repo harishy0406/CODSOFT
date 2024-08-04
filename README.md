@@ -21,3 +21,11 @@ Welcome to the CODSOFT repository! This repo contains the projects I completed d
 - **Technologies used:** HTML, CSS, Javascript
 
   ![image](https://github.com/harishy0406/CODSOFT/blob/main/Task3.gif)
+
+## Level 2️⃣
+
+### 1. Tribute Page 🌐📜
+- A heartfelt tribute page dedicated to the legendary footballer Diego Maradona. Built using HTML and CSS, this page highlights his incredible career and achievements. 🌟🏆
+- **Technologies used:** HTML, CSS
+
+  ![image](https://github.com/harishy0406/CODSOFT/blob/main/Task4.gif)
